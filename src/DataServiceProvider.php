@@ -4,7 +4,7 @@ namespace SecPHP\Data;
 
 use Illuminate\Support\ServiceProvider;
 
-class MyPackageServiceProvider extends ServiceProvider
+class DataServiceProvider extends ServiceProvider
 {
     public function boot()
     {
