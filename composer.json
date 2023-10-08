@@ -1,18 +1,17 @@
 {
-    "name": "SecPHP/Data",
-    "description": "A Laravel package example",
-    "type": "library",
-    "autoload": {
-      "psr-4": {
-        "SecPHP\\Data\\": "src/"
-      }
-    },
-    "extra": {
-      "laravel": {
-        "providers": [
-          "SecPHP\\Data\\src\\DataServiceProvider"
-        ]
-      }
+  "name": "SecPHP/Data",
+  "description": "A Laravel package example",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "SecPHP\\Data\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "SecPHP\\Data\\src\\DataServiceProvider"
+      ]
     }
   }
-  
+}
