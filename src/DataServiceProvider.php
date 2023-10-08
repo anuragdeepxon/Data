@@ -1,6 +1,6 @@
 <?php
 
-namespace SecPHP\Data;
+namespace SecPHP\Data\src;
 
 use Illuminate\Support\ServiceProvider;
 
