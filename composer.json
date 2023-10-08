@@ -10,7 +10,7 @@
     "extra": {
       "laravel": {
         "providers": [
-          "SecPHP\\Data\\DataServiceProvider"
+          "SecPHP\\Data\\src\\DataServiceProvider"
         ]
       }
     }
